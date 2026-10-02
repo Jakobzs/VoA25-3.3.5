@@ -8,7 +8,7 @@ Place the VOA25 folder in your Interface/AddOns directory.
 
 ## Usage
 
-Open the addon with /voa or /voa25 in-game.
+Open the addon with `/voa` or `/voa25` in-game.
 
 ## Media
 
