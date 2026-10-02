@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: VoA 25 LFM Generator
+## Notes: Track filled specs and prepare Vault of Archavon 25 recruitment messages.
+## Author: Zacho
+## Version: 1.3.3
+## SavedVariablesPerCharacter: VOA25DB
+
+Generator.lua
+SelfTest.lua
+Recruitment.lua
+RecruitmentClient.lua
+UI.lua
+ApplicantsUI.lua
+VOA25.lua
