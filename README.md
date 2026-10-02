@@ -1,6 +1,6 @@
 # VoA25-3.3.5
 
-A spec run invite addon for VoA 25, targeting the 3.3.5 client.
+A spec run invite addon for Vault of Archavon 25-man, targeting the 3.3.5 client.
 
 ## Installation
 
